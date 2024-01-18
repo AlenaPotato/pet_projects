@@ -7,4 +7,6 @@
  marketing_ab_testing | 08_2023 | Анализ маркетинговой кампании и проведение A/B-тестирования. Тренировочный датасет взят с платформы kaggle. | seaborn, matplotlib, numpy, pandas 
  drawing-in-matplotlib | 01_2023 | В проекте используется библиотека matplotlib для нестандарной визуализации. Фактически библиотека выступает в роли редактора для рисования. | pandas, numpy, matplotlib, math 
 
+
+
 This repository will be used as a storage for my training projects
