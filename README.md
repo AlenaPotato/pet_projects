@@ -1,8 +1,12 @@
 # pet_projects
-Этот репозиторий будет использоваться в качестве хранилища для моих пет-проектов
+Всем привет!
+Здесь я буду делиться своими пет-проектами, которые я выполняю для прокачки навыков.
+
+
 
  Название проекта | Дата | Краткое описание | Стек и методы 
 :---- |:---- |:------------------ |:---- |
+ sql_test_sales | 05_2024 | Создание базы данных и манипуляция данными с помощью sql-запросов. | sqlite3
  fin_statements_analysis | 02_2024 | Автоматизация экономического анализа отчётности предприятия (ликвидность, кредитоспособность, финансовая устойчивость). Запись итогов в excel и в word файлы. | pandas, numpy, openpyxl, docx
  HH_parsing_and_ basic_NLP | 01_2024 | Парсинг сайта вакансий при помощи API, аналитика данных, естественная обработка языка (NLP).  | requests, geopandas, spacy, nltk, plotly.express, collections 
  marketing_ab_testing | 08_2023 | Анализ маркетинговой кампании и проведение A/B-тестирования. Тренировочный датасет взят с платформы kaggle. | seaborn, matplotlib, numpy, pandas 
@@ -14,6 +18,7 @@
 This repository will be used as a storage for my training projects
 Project Name | Date | Description | Stack
 :---- |:---- |:------------------ |:---- |
+ sql_test_sales | 05_2024 | Database creation and data manipulation using sql queries. | sqlite3
  fin_statements_analysis | 02_2024 | Automation of economic analysis of financial statements (liquidity, creditworthiness, financial stability). Saving the analytical reports in excel and word files.| pandas, numpy, openpyxl, docx
  HH_parsing_and_ basic_NLP | 01_2024 | Job site parsing using API, data analytics, natural language processing (NLP).  | requests, geopandas, spacy, nltk, plotly.express, collections 
  marketing_ab_testing | 08_2023 | Analysis of the marketing campaign and A/B testing perfomance. The training dataset was taken from kaggle. | seaborn, matplotlib, numpy, pandas 
