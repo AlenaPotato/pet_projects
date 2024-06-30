@@ -6,6 +6,8 @@
 
  Название проекта | Дата | Краткое описание | Стек и методы 
 :---- |:---- |:------------------ |:---- |
+ energy_consumption | 06_2024 | Анализ потребления энергии при помощи моделей Time Series. Тренировочный датасет взят с платформы kaggle. | prophet, SARIMAX, statmodels, numpy, acf, pacf
+ Medical case study | 05_2024 | Построение дашборда на тестовых данных | Fine BI 
  sql_test_sales | 05_2024 | Создание базы данных и манипуляция данными с помощью sql-запросов. | sqlite3
  fin_statements_analysis | 02_2024 | Автоматизация экономического анализа отчётности предприятия (ликвидность, кредитоспособность, финансовая устойчивость). Запись итогов в excel и в word файлы. | pandas, numpy, openpyxl, docx
  HH_parsing_and_ basic_NLP | 01_2024 | Парсинг сайта вакансий при помощи API, аналитика данных, естественная обработка языка (NLP).  | requests, geopandas, spacy, nltk, plotly.express, collections 
@@ -18,6 +20,8 @@
 This repository will be used as a storage for my training projects
 Project Name | Date | Description | Stack
 :---- |:---- |:------------------ |:---- |
+ energy_consumption | 06_2024 | Energy consumption analysis using Time Series models. The training dataset was taken from the kaggle platform | prophet, SARIMAX, statmodels, numpy, acf, pacf
+ Medical case study | 05_2024 | Building a dashboard based on test data | Fine BI 
  sql_test_sales | 05_2024 | Database creation and data manipulation using sql queries. | sqlite3
  fin_statements_analysis | 02_2024 | Automation of economic analysis of financial statements (liquidity, creditworthiness, financial stability). Saving the analytical reports in excel and word files.| pandas, numpy, openpyxl, docx
  HH_parsing_and_ basic_NLP | 01_2024 | Job site parsing using API, data analytics, natural language processing (NLP).  | requests, geopandas, spacy, nltk, plotly.express, collections 
