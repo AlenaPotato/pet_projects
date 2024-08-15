@@ -6,6 +6,7 @@
 
  Название проекта | Дата | Краткое описание | Стек и методы 
 :---- |:---- |:------------------ |:---- |
+client_segmentation |08_2024 | Сегментация и бизнес-портрет клиентов на основе результатов анкетирования. | kmodes, sklearn, KMeans
 search_algorithms | 07_2024 | Проработка популярных алгорисмов поиска: линейный поиск, бинарный поиск, прыжковый поиск, интерполяционный поиск, экспоненциальный поиск. | random, pandas, math
  energy_consumption | 06_2024 | Анализ потребления энергии при помощи моделей Time Series. Тренировочный датасет взят с платформы kaggle. | prophet, SARIMAX, statmodels, numpy, acf, pacf
  Medical case study | 05_2024 | Построение дашборда на тестовых данных | Fine BI 
@@ -21,6 +22,7 @@ search_algorithms | 07_2024 | Проработка популярных алго
 This repository will be used as a storage for my training projects
 Project Name | Date | Description | Stack
 :---- |:---- |:------------------ |:---- |
+client_segmentation |08_2024 | Segmentation and business portrait of clients based on the survey results. | kmodes, sklearn, KMeans
 search_algorithms | 07_2024 | The practice of popular search algorithms: linear search, binary search, jump search, interpolation search, exponential search. | random, pandas, math
  energy_consumption | 06_2024 | Energy consumption analysis using Time Series models. The training dataset was taken from the kaggle platform | prophet, SARIMAX, statmodels, numpy, acf, pacf
  Medical case study | 05_2024 | Building a dashboard based on test data | Fine BI 
